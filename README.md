@@ -4,6 +4,12 @@ A semantic + hybrid search engine over USPTO vehicle patent applications (2024â€
 
 ---
 
+## Demo
+
+[Watch the demo video on Google Drive](https://drive.google.com/drive/u/0/folders/1M2BuWD5xYA6Wr-BcVhmFPbObn1QLvQRJ)
+
+---
+
 ## Problem Statement
 
 Patent examiners need to rapidly find patents related to a specific technology
