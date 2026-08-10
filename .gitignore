@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Generated cache — rebuild with: python app.py --rebuild
+patent_index.pkl
+
+# Large data zip (too big for GitHub)
+*.zip
+
+# Patent data folder (too large, user extracts locally)
+patent_data/
+
+# Claim mapper cache if added later
+claim_index.pkl
+
+# CSV exports
+search_results.csv
+claim_results.csv
+results.csv
+
+# OS
+.DS_Store
